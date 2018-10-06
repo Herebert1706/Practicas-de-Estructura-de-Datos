@@ -10,7 +10,7 @@ def push(valor):            """Defino un metodo push que se refiere a ingresar u
     return 0            """Regreso un valor cero para que se pueda ejecutar"""
 
 """Hago un if en donde le doy la instruccion de que si mi indice es menor a 5 me va a pedir un elemento o valor para agregar a la pila, el vaor puede ser entero o un string, despues se ejecuta el push que es donde guarda el elemento ingresado y por ultimo mi indice va aumentando en uno"""
-
+if i<=5:
 	print("Introduce tu numero")
 	valor = int(input())
 	push(valor)
