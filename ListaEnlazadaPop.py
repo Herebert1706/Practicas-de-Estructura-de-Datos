@@ -141,7 +141,7 @@ def  menu(r,q,i,p):
 	    print("3.-Imprimir el ultimo dato agregado")
 		print("4.-Imprimir el primer dato agregado")
 	    print("5.-Comprobar si hay un dato en la lista")
-		# print("6.-Eliminar un dato")
+		print("6.-Eliminar un dato")
 		print("0.-Salir del programa")
 
 		opcion = int(input())
